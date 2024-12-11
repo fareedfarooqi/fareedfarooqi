@@ -51,6 +51,16 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Managed a team of tutors and implemented data-driven performance tracking
   - Designed and developed the platform using Python and Flask
 
+## 🌟 Other Projects
+
+### ✅ To-Do List App
+- **Description**: A simple and user-friendly to-do list application built with React, featuring task addition, deletion, and reordering.
+- **Technologies Used**: React, JavaScript, HTML, CSS
+- **Features**:
+  - Add, delete, and reorder tasks with ease
+  - Clean and intuitive UI
+- **Repository**: [GitHub Link](https://github.com/fareedfarooqi/todo-list-react)
+
 ## 📫 How to Reach Me
 
 - **Email**: fareedfarooqi22@gmail.com
