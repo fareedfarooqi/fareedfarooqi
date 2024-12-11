@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
 
 ## 🌟 Other Projects
 
-### ✅ To-Do List App
+### 🎯 Practice Projects
 - **Description**: A simple and user-friendly to-do list application built with React, featuring task addition, deletion, and reordering.
 - **Technologies Used**: React, JavaScript, HTML, CSS
 - **Features**:
