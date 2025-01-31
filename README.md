@@ -44,12 +44,16 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - [Backend](https://github.com/fareedfarooqi/E-Invoicing_Service_Backend_Standalone)
   - [Frontend](https://github.com/fareedfarooqi/E-Invoicing_Service_Frontend_Standalone)
 
-### 🛠️ Staff Internal Application (Society)
-- **Description**: Developed an OOP-based API for event management and attendance tracking, enhancing application performance and security with Python and FastAPI.
-- **Highlights**:
-  - Engineered and maintained a robust database schema and secure API endpoints, focusing on modular design and efficient data handling.
-  - Implemented a continuous feedback loop with internal users to guide feature improvements and optimize user experience, leading to enhanced operational efficiency.
-  - Our application is deployed on the App Store [Soc3 Staff Portal - iOS](https://apps.apple.com/au/app/unsw-soc3-staff-portal/id6476927598) as well as on the Play Store [Soc3 Staff Portal - Android](https://play.google.com/store/apps/details?id=com.unswsoc3.internal&hl=en_AU)
+### 🛠️ Staff Internal Application (Society) – CRM for Event Management  
+- **Description**: Developed a **CRM-like internal staff portal** for event management, attendance tracking, and event logistics, enhancing operational efficiency using **Python and FastAPI**.  
+- **Highlights**:  
+  - Helped build a centralised system to track event participation, manage schedules, and streamline attendee management.  
+  - Automated attendance tracking and real-time event status updates, improving workflow efficiency for society staff.  
+  - Deployed on both iOS and Android, enabling seamless accessibility and generating reports on event participation trends.
+- **Repository**: *(To be added once available)*
+- **Deployment**:  
+  - Available on the App Store: [Soc3 Staff Portal - iOS](https://apps.apple.com/au/app/unsw-soc3-staff-portal/id6476927598)  
+  - Available on the Play Store: [Soc3 Staff Portal - Android](https://play.google.com/store/apps/details?id=com.unswsoc3.internal&hl=en_AU)
 
 ### 🏛 UNSW Beans
 - **Description**: A full-stack collaborative messaging platform developed as part of UNSW's COMP1531 software engineering project. This project involved designing and implementing the backend for an alternative to Microsoft Teams, with a focus on software engineering principles.
