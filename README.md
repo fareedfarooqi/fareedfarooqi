@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Designed a microservices architecture to ensure scalability
   - Integrated AWS Lambda and Amazon API Gateway for backend logic and API management
   - Won the Optiver Software Engineering Prize
+- **Repositories**:
+  - [Backend](https://github.com/fareedfarooqi/Crescent_Byte_Virtual_Trading_Backend_Standalone)
+  - [Frontend](https://github.com/fareedfarooqi/Crescent_Byte_Virtual_Trading_Frontend_Standalone)
 
 ### 📊 E-Invoicing Service
 - **Description**: Developed a secure e-invoicing service API using Flask, integrating external APIs for invoice validation and automated sending.
@@ -37,7 +40,10 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Implemented backend routes for invoice generation, business analytics, and token-based authentication
   - Utilized AWS for deployment and infrastructure management
   - Developed features for detailed revenue and sales reporting
- 
+- **Repositories**:
+  - [Backend](https://github.com/fareedfarooqi/E-Invoicing_Service_Backend_Standalone)
+  - [Frontend](https://github.com/fareedfarooqi/E-Invoicing_Service_Frontend_Standalone)
+
 ### 🛠️ Staff Internal Application (Society)
 - **Description**: Developed an OOP-based API for event management and attendance tracking, enhancing application performance and security with Python and FastAPI.
 - **Highlights**:
@@ -45,11 +51,30 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Implemented a continuous feedback loop with internal users to guide feature improvements and optimize user experience, leading to enhanced operational efficiency.
   - Our application is deployed on the App Store [Soc3 Staff Portal - iOS](https://apps.apple.com/au/app/unsw-soc3-staff-portal/id6476927598) as well as on the Play Store [Soc3 Staff Portal - Android](https://play.google.com/store/apps/details?id=com.unswsoc3.internal&hl=en_AU)
 
+### 🏛 UNSW Beans
+- **Description**: A full-stack collaborative messaging platform developed as part of UNSW's COMP1531 software engineering project. This project involved designing and implementing the backend for an alternative to Microsoft Teams, with a focus on software engineering principles.
+- **Highlights**:
+  - Developed a RESTful API using Express.js and TypeScript, ensuring modular and maintainable architecture.
+  - Implemented core features such as user authentication, messaging, notifications, and analytics tracking.
+  - Deployed the backend on a cloud provider, integrated CI/CD pipelines, and maintained high test coverage with Jest.
+- **Repository**:
+  - [Backend](https://github.com/fareedfarooqi/UNSW_Beans)
+
+### 🏗 Waste & Recycling ERP System
+- **Description**: A modular ERP system designed for managing waste and recycling operations, including customer management, bin tracking, inventory control, and pickup scheduling.
+- **Highlights**:
+  - Currently developing a **Next.js** frontend with **React** and **Tailwind CSS**, ensuring a responsive and intuitive UI.
+  - Built a **Supabase-powered** backend using **PostgreSQL**, managing data efficiently with role-based access control.
+  - Implemented a robust authentication system, bin inventory tracking, customer management, container management and automated scheduling for waste collection.
+- **Repository**: *(To be added once available)*
+
 ### 📚 Fission Education
 - **Description**: A tutoring service management platform that tracks tutor and student performance data (Currently under development).
 - **Highlights**:
   - Managed a team of tutors and implemented data-driven performance tracking
   - Designed and developed the platform using Python and Flask
+  - Built RESTful APIs to handle student records and class scheduling
+- **Repository**: *(To be added once available)*
 
 ## 💻 Mini Projects
 
