@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
 
 ## 💻 Mini Projects
 
-### 🎮 [Tetris Game]([https://main.d34lkhx9u8kgt9.amplifyapp.com/](https://tetris-one-dusky.vercel.app/))
+### 🎮 [Tetris Game](https://tetris-one-dusky.vercel.app/)
 - **Description**: A visually engaging and fully functional Tetris game built using React. Drop, rotate, and clear blocks to score points, with a responsive layout and keyboard/on-screen controls.
 - **Technologies Used**: React, JavaScript, Tailwind CSS, HTML
 - **Features**:
