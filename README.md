@@ -82,6 +82,16 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
 
 ## 💻 Mini Projects
 
+### 🎮 [Tetris Game]([https://main.d34lkhx9u8kgt9.amplifyapp.com/](https://tetris-one-dusky.vercel.app/))
+- **Description**: A visually engaging and fully functional Tetris game built using React. Drop, rotate, and clear blocks to score points, with a responsive layout and keyboard/on-screen controls.
+- **Technologies Used**: React, JavaScript, Tailwind CSS, HTML
+- **Features**:
+  - Move, rotate, and drop shapes with keyboard or on-screen buttons
+  - Live score tracking and high score persistence
+  - Game over modal and restart functionality
+  - Responsive design: plays well on both desktop and mobile
+- **Repository**: [GitHub Repo]([https://github.com/yourusername/tetris-react](https://github.com/fareedfarooqi/tetris))
+
 ### ✅ To-Do List App
 - **Description**: A simple and user-friendly to-do list application built with React, featuring task addition, deletion, and reordering.
 - **Technologies Used**: React, JavaScript, HTML, CSS
@@ -89,6 +99,7 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Add, delete, and reorder tasks with ease
   - Clean and intuitive UI
 - **Repository**: [GitHub Link](https://github.com/fareedfarooqi/todo-list-react)
+
 
 ## 📫 How to Reach Me
 
