@@ -90,7 +90,7 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Live score tracking and high score persistence
   - Game over modal and restart functionality
   - Responsive design: plays well on both desktop and mobile
-- **Repository**: [GitHub Repo]([https://github.com/yourusername/tetris-react](https://github.com/fareedfarooqi/tetris))
+- **Repository**: [GitHub Repo](https://github.com/fareedfarooqi/tetris)
 
 ### ✅ To-Do List App
 - **Description**: A simple and user-friendly to-do list application built with React, featuring task addition, deletion, and reordering.
