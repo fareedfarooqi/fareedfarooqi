@@ -82,15 +82,17 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
 
 ## 💻 Mini Projects
 
-### 🎮 [Tetris Game](https://tetris-one-dusky.vercel.app/)
-- **Description**: A visually engaging and fully functional Tetris game built using React. Drop, rotate, and clear blocks to score points, with a responsive layout and keyboard/on-screen controls.
-- **Technologies Used**: React, JavaScript, Tailwind CSS, HTML
+### 🧩 [Airtable Clone (T3)](https://table-flow-ecru.vercel.app/)
+- **Description**: An Airtable-like grid application built with the T3 stack, focused on performance and handling large datasets. Supports bases, tables, dynamic columns, inline editing, and comprehensive data management features. Note this is a light clone, i.e., not every feature of Airtable is ported over.
+- **Technologies Used**: Next.js, TypeScript, tRPC, Prisma, PostgreSQL, NextAuth (Google), TanStack Table, TanStack Virtualizer, Tailwind CSS, Faker.js, Vercel
 - **Features**:
-  - Move, rotate, and drop shapes with keyboard or on-screen buttons
-  - Live score tracking and high score persistence
-  - Game over modal and restart functionality
-  - Responsive design: plays well on both desktop and mobile
-- **Repository**: [GitHub Repo](https://github.com/fareedfarooqi/tetris)
+ - Virtualised grid handling 100k+ rows with smooth scrolling performance
+ - Dynamic text/number column creation with inline cell editing and tab navigation
+ - Server-side search, filtering, and sorting with saved view configurations
+ - Cursor-based pagination with infinite scroll and bulk data generation
+ - Optimistic UI updates with automatic rollback on failure
+ - Google authentication and multi-base/table support
+- **Repository**: Available upon request.
 
 ### ✅ [To-Do List App](https://todo-list-react-iota-mauve.vercel.app/)
 - **Description**: A simple and user-friendly to-do list application built with React, featuring task addition, deletion, and reordering.
@@ -99,7 +101,6 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
   - Add, delete, and reorder tasks with ease
   - Clean and intuitive UI
 - **Repository**: [GitHub Link](https://github.com/fareedfarooqi/todo-list-react)
-
 
 ## 📫 How to Reach Me
 
