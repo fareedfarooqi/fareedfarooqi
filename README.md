@@ -86,12 +86,12 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
 - **Description**: An Airtable-like grid application built with the T3 stack, focused on performance and handling large datasets. Supports bases, tables, dynamic columns, inline editing, and comprehensive data management features. Note this is a light clone, i.e., not every feature of Airtable is ported over.
 - **Technologies Used**: Next.js, TypeScript, tRPC, Prisma, PostgreSQL, NextAuth (Google), TanStack Table, TanStack Virtualizer, Tailwind CSS, Faker.js, Vercel
 - **Features**:
- - Virtualised grid handling 100k+ rows with smooth scrolling performance
- - Dynamic text/number column creation with inline cell editing and tab navigation
- - Server-side search, filtering, and sorting with saved view configurations
- - Cursor-based pagination with infinite scroll and bulk data generation
- - Optimistic UI updates with automatic rollback on failure
- - Google authentication and multi-base/table support
+  - Virtualised grid handling 100k+ rows with smooth scrolling performance
+  - Dynamic text/number column creation with inline cell editing and tab navigation
+  - Server-side search, filtering, and sorting with saved view configurations
+  - Cursor-based pagination with infinite scroll and bulk data generation
+  - Optimistic UI updates with automatic rollback on failure
+  - Google authentication and multi-base/table support
 - **Repository**: Available upon request.
 
 ### ✅ [To-Do List App](https://todo-list-react-iota-mauve.vercel.app/)
