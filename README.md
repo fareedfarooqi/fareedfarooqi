@@ -82,6 +82,16 @@ Welcome to my GitHub profile! I am a passionate and driven software engineering 
 
 ## 💻 Mini Projects
 
+### 🎮 [Tetris Game](https://tetris-one-dusky.vercel.app/) 
+- **Description**: A visually engaging and fully functional Tetris game built using React. Drop, rotate, and clear blocks to score points, with a responsive layout and keyboard/on-screen controls.
+- **Technologies Used**: React, JavaScript, Tailwind CSS, HTML
+- **Features**:
+  - Move, rotate, and drop shapes with keyboard or on-screen buttons
+  - Live score tracking and high score persistence
+  - Game over modal and restart functionality
+  - Responsive design: plays well on both desktop and mobile
+- **Repository**: [GitHub Repo](https://github.com/fareedfarooqi/tetris)
+
 ### 🧩 [Airtable Clone (T3)](https://table-flow-ecru.vercel.app/)
 - **Description**: An Airtable-like grid application built with the T3 stack, focused on performance and handling large datasets. Supports bases, tables, dynamic columns, inline editing, and comprehensive data management features. Note this is a light clone, i.e., not every feature of Airtable is ported over.
 - **Technologies Used**: Next.js, TypeScript, tRPC, Prisma, PostgreSQL, NextAuth (Google), TanStack Table, TanStack Virtualizer, Tailwind CSS, Faker.js, Vercel
